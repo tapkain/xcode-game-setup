@@ -17,7 +17,6 @@ class PhysicsWorld {
   sf::Vector2f mSpeed;
 
 public:
-  Physics
-}
+};
 
 #endif /* PhysicsWorld_hpp */
